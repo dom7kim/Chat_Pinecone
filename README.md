@@ -1,4 +1,4 @@
-# Chat with Pinecone VectorDB
+# Chat with Pinecone
 
 This repository demonstrates the integration of [Pinecone](https://www.pinecone.io/) - a cloud-native vector search service - with the LangChain application to enable scalable and efficient document retrieval. The primary aim is to showcase the benefits of using Pinecone as a vector database over the conventional in-memory vector database.
 
