@@ -4,7 +4,7 @@ This repository demonstrates the integration of [Pinecone](https://www.pinecone.
 
 ## Purpose
 
-LangChain is designed to allow users to chat with documents by uploading PDFs, extracting content, embedding the content into vectors, and then querying based on user input. While the original implementation uses an in-memory vector database, this version is modified to use Pinecone, emphasizing the scalability and efficiency of cloud-native vector search solutions.
+This app is designed to allow users to chat with documents by uploading PDFs, extracting content, embedding the content into vectors, and then querying based on user input. While the original implementation uses an in-memory vector database, this version is modified to use Pinecone, emphasizing the scalability and efficiency of cloud-native vector search solutions.
 
 ## Benefits of Pinecone over In-Memory VectorDB
 
@@ -12,6 +12,8 @@ LangChain is designed to allow users to chat with documents by uploading PDFs, e
 2. **Efficiency**: Pinecone provides faster search capabilities, especially when dealing with massive amounts of data.
 3. **Cloud-Native**: Being a cloud-native solution, Pinecone offers easy integration, scalability, and maintenance.
 4. **Managed Service**: No need to worry about infrastructure management, as Pinecone takes care of it.
+
+![Pinecone Screenshot](pinecone.png)
 
 ## Acknowledgments
 
