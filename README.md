@@ -28,6 +28,6 @@ The main modifications from the original LangChain code include:
 3. **Vectorstore Creation**: Replaced the in-memory vector database with Pinecone for storing and retrieving document embeddings.
 4. **Retrieval**: Defined a retriever on the Pinecone vectorstore for efficient document retrieval based on user queries.
 
-For a detailed comparison, refer to the main application code in this repository.
+For a detailed comparison, refer to [app.py](./app.py) in this repository.
 
 
