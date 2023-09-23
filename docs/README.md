@@ -13,7 +13,7 @@ This app is designed to allow users to chat with documents by uploading PDFs, ex
 3. **Cloud-Native**: Being a cloud-native solution, Pinecone offers easy integration, scalability, and maintenance.
 4. **Managed Service**: No need to worry about infrastructure management, as Pinecone takes care of it.
 
-![Pinecone Screenshot](pinecone.png)
+![Pinecone Screenshot](../assets/pinecone.png)
 
 ## Acknowledgments
 
